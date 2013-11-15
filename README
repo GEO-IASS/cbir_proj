@@ -1,0 +1,17 @@
+Content-Based Image Retrieval (CBIR) Project
+
+Note:
+  1. Please copy the "MART" folder to the "D:\" directory before starting the program;
+
+  2. The detailed user manual is in the experiment report;
+
+  3. Command-line interface enables you to do batch experiment;
+
+  4. Add the path to the source code to the MATLAB search path is highly recommended because
+     the current direcitory will be changed if you reconstruct the database;
+
+  5. The file records the 1000 accuracies and it will be placed under the current directory
+     but you can refer to the copy in the "Accuracies Fast Access" folder to save time of
+     running the program;
+
+  6. This is a MATLAB program.
